@@ -6,6 +6,6 @@
   </a>
   <br /><br />
   <a href="https://nomadicgopher.github.io/Steinels.com/">
-    <img src="iPad-1713118130085.jpeg" alt="Steinels.com" width="33.33%"/>
+    <img src="iPad-1713118130085.jpeg" alt="Steinels.com" width="33.333%"/>
   </a>
 </p>
